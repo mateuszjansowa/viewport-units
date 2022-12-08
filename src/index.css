@@ -1,6 +1,10 @@
-.app-container {
+body {
     height: 100vh;
     overflow: hidden;
+}
+
+.app-container {
+    height: 100vh;
 }
 
 @media screen and (max-width: 400px) {
